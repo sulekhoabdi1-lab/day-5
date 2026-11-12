@@ -1,4 +1,3 @@
-@@ -0,0 +1,68 @@
 A) User Manual Procedure: Setting Up a GitHub Repository and Making Your First Commit
 Prerequisites Before you begin, ensure you have:
 A computer with an active internet connection.
